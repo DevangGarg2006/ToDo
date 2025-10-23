@@ -1,0 +1,33 @@
+.add{
+    margin-bottom: 10px;
+    margin-left: 20px;
+    background-color: rgb(7, 242, 7);
+    width: 80px;
+    height: 40px;
+    font-weight: 500;
+    font-size: 1.2rem;
+    border-radius: 9px;
+}
+.display{
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 1.5rem;
+    font-weight: 550;
+}
+.datestodo{
+    margin-bottom: 10px;
+    margin-left: 20px;
+    border-radius: 5px;
+    height: 30px;
+}
+.itemstodo{
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 250px;
+    height: 30px;
+}
+.display{
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: 260px 120px 100px;
+}
